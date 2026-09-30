@@ -2,10 +2,14 @@
 
 ## Participantes - Group Members 
 - Joaquin Carrión Gil -> 
-- Iván García Donderis -> 1aiban
+- Iván García Donderis -> ivangarciadonderis
 - Gonzalo Hurtado Sanhermelando -> ghursan
 - Carles Navarro Esteve -> carlesnaes
 - Marcos Gómez Soler-> marcosgs04
+
+**ES:** Proyecto en equipo (5 integrantes) desarrollado en la asignatura Proyecto II del Grado en Ciencia de Datos (Universitat Politècnica de València). Repositorio original: [marcosgs04/Estudio-de-los-vuelos-nacionales-EEUU](https://github.com/marcosgs04/Estudio-de-los-vuelos-nacionales-EEUU).
+
+**EN:** Team project (5 members) developed for the course Project II, Bachelor's Degree in Data Science (Universitat Politècnica de València). Original repository: [marcosgs04/Estudio-de-los-vuelos-nacionales-EEUU](https://github.com/marcosgs04/Estudio-de-los-vuelos-nacionales-EEUU).
 
 ## Introducción al proyecto
 
